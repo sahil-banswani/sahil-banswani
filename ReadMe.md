@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cross Platfrom app devlopement<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with UI Design<br>🌱 I’m currently learning Backend (Firebase and Firestore and also woring on Node.js)<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on Cross Platfrom app devlopement<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with UI Design<br>🌱 I’m currently learning Backend (Firebase and Supabase
 
 
 ## 🌐 Socials:
